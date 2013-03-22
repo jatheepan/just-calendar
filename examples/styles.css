@@ -11,3 +11,6 @@ body {
     clear:left;
     margin-right:10px;
 }
+.clear {
+    clear:both;
+}
